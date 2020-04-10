@@ -1,0 +1,22 @@
+{
+  "name": "eduardoschmitt",
+  "version": "1.0.0",
+  "description": "sla",
+  "main": "index.html",
+  "scripts": {
+    "test": "aaaa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoschmitt/git-teste.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Eduardo Schmitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardoschmitt/git-teste/issues"
+  },
+  "homepage": "https://github.com/eduardoschmitt/git-teste#readme"
+}
