@@ -1,22 +1,21 @@
 {
-  "name": "eduardoschmitt",
-  "version": "1.0.0",
-  "description": "sla",
-  "main": "index.html",
-  "scripts": {
-    "test": "aaaa"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/eduardoschmitt/git-teste.git"
-  },
-  "keywords": [
-    "123"
-  ],
-  "author": "Eduardo Schmitt",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/eduardoschmitt/git-teste/issues"
-  },
-  "homepage": "https://github.com/eduardoschmitt/git-teste#readme"
-}
+ "name": "eduardoschmitt",
+ "version": "1.0.0",
+"description": "sla",
+ "main": "index.html",
+ "scripts": {
+ "start": "npm run lite",
+ "test": "echo \"Error: no test specified\" && exit 1",
+ "lite": "lite-server"
+ },
+ "repository": {
+ "type": "git",
+ "url": "git+https://github.com/eduardoschmitt/git-teste.git"
+ },
+ "author": "Eduardo Schmitt",
+ "license": "ISC",
+ "homepage": "https://github.com/eduardoschmitt/git-teste#readme",
+ "devDependencies": {
+ "lite-server": "^2.2.2"
+ }
+} 
